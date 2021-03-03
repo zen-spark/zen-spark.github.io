@@ -120,7 +120,7 @@ body {
   position: absolute;
   top: 150%;
   color: white;
-  background: url(wave.png) no-repeat right;
+  background: url(https://that-bucket.oss-cn-beijing.aliyuncs.com/wave.png) no-repeat right;
   background-size: 90vh 80vh;
   padding-top: 20%;
   padding-left: 10%;
